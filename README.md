@@ -1,1 +1,146 @@
-# enhansome-kubernetes-operator-resources
+# Awesome Kubernetes Operator Resources with stars
+
+A curated list of awesome resources: articles, books, videos about Kubernetes Operators.
+
+#### What is Kubernetes Operator?
+
+> A Kubernetes operator is an application-specific controller that extends the functionality of the Kubernetes API to create, configure, and manage instances of complex applications on behalf of a Kubernetes user. - [What is a Kubernetes operator?](https://www.redhat.com/en/topics/containers/what-is-a-kubernetes-operator#:~:text=A%20Kubernetes%20operator%20is%20an,behalf%20of%20a%20Kubernetes%20user).
+
+## Contents
+
+* [Courses and Tutorials](#courses-and-tutorials)
+* [Books](#books)
+* [Videos](#videos)
+* [Operator Frameworks](#operator-frameworks)
+* [Catalogs and Hubs](#catalogs-and-Hubs)
+* [Multi-Cluster & Fleet Management](#multi-cluster--fleet-management)
+* [Dashboards & UIs](#dashboards--uis)
+* [Contributing](#contributing)
+
+## Courses and Tutorials
+
+* [What is a Kubernetes Operator?](https://konghq.com/blog/learning-center/what-is-a-kubernetes-operator).
+* [Understanding the Kubernetes Operator Pattern](https://thenewstack.io/understanding-the-kubernetes-operator-pattern/).
+* [Kubernetes Operators: Pioneering Modern Architectural Automation and Management](https://medium.com/tech-at-fidelity/kubernetes-operators-pioneering-modern-architectural-automation-and-management-5bf2fba11d35).
+* [What is a Kubernetes Operator? Definition & Examples](https://spacelift.io/blog/kubernetes-operator).
+* [Kubernetes Operators Explained: Key Concepts and Practical Applications](https://trilio.io/kubernetes-management-tools/kubernetes-operators/).
+* [What is a Kubernetes Operator? Best Practices & Examples](https://www.groundcover.com/blog/kubernetes-operator).
+* [Kubernetes Operators: what are they? Some examples](https://www.cncf.io/blog/2022/06/15/kubernetes-operators-what-are-they-some-examples/).
+* [Kubernetes Operators Patterns and Best Practices](https://developer.ibm.com/articles/kubernetes-operators-patterns-and-best-practices/).
+* [ Introduction to Kubernetes operators](https://cognitiveclass.ai/courses/kubernetes-operators-intermediate).
+* [Learn how to deploy Kubernetes operator written in Golang](https://docs.ovh.com/sg/en/kubernetes/deploying-go-operator/).
+* [Building and running a Go-based operator](https://sdk.operatorframework.io/docs/building-operators/golang/tutorial/).
+* [Build your Kubernetes operator with the right tool](https://cloud.redhat.com/blog/build-your-kubernetes-operator-with-the-right-tool).
+* [Kubernetes operators advanced](https://courses.cognitiveclass.ai/courses/course-v1:IBM+CO0302EN+v1/course/).
+* [Build and deploy your first Kubernetes Operator using the Operator SDK.](https://medium.com/faun/writing-your-first-kubernetes-operator-8f3df4453234).
+* [Building a Kubernetes Operator In Python With Zalando’s Kopf](https://medium.com/swlh/building-a-kubernetes-operator-in-python-with-zalandos-kopf-37c311d8edff).
+* [Getting started with Kubernetes operators (Helm Based) - Part 1](https://www.velotio.com/engineering-blog/getting-started-with-kubernetes-operators-helm-based-part-1).
+* [Getting started with Kubernetes operators (Ansible Based) — Part 2](https://medium.com/velotio-perspectives/getting-started-with-kubernetes-operators-ansible-based-part-2-472eb0d453b7).
+* [Getting started with Kubernetes operators (Golang Based) - Part 3](https://www.velotio.com/engineering-blog/getting-started-with-kubernetes-operators-golang-based-part-3).
+* [Getting started with Kubernetes | Operator and operator framework](https://medium.com/@alibaba-cloud/getting-started-with-kubernetes-operator-and-operator-framework-8fe406985e34).
+* [Go Kubernetes operator](https://medium.com/techlogs/go-kubernetes-operator-963461e528c5).
+* [Kubernetes Operators for beginners](https://medium.com/@truestorydavestorey/kubernetes-operators-for-beginners-8f53ead07097).
+* [Kubernetes Operators in depth](https://www.infoq.com/articles/kubernetes-operators-in-depth/).
+* [Operator pattern](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/).
+* [Defining dependencies in Kubernetes Operators](http://heidloff.net/article/defining-dependencies-kubernetes-operators/).
+* [Kubernetes: when to use, and when to avoid, the operator pattern](https://thenewstack.io/kubernetes-when-to-use-and-when-to-avoid-the-operator-pattern/).
+* [How to create a custom resource with Kubernetes Operator](https://codilime.com/blog/how-to-create-a-custom-resource-with-kubernetes-operator/).
+* [Security implications of Kubernetes operators](https://snyk.io/blog/security-implications-of-kubernetes-operators/).
+* [Writing kubernetes operators with python](https://www.spectrocloud.com/blog/writing-kubernetes-operators-with-python/).
+* [A deep dive into kubernetes operators](https://cloudnativenow.com/features/a-deep-dive-into-kubernetes-operators/).
+* [Kubernetes Operator: A Practical Introduction](https://www.linkedin.com/pulse/kubernetes-operator-practical-introduction-bhanu-chaddha/).
+* [Ultimate Guide to Kubernetes Operators](https://komodor.com/learn/kubernetes-operator/).
+* [Build Your Kubernetes Operator with the Right Tool](https://hazelcast.com/blog/build-your-kubernetes-operator-with-the-right-tool/).
+
+## Books
+
+* [Kubernetes Operators: Automating the Container Orchestration Platform](https://www.oreilly.com/library/view/kubernetes-operators/9781492048039/).
+* [The little book of Kubernetes Operators](https://leanpub.com/the-little-book-of-kubernetes-operators).
+* [The Kubernetes Operator Framework Book](https://www.amazon.com/Kubernetes-Operator-Framework-Book-management/dp/1803232854).
+* [Extending Kubernetes: Elevate Kubernetes with Extension Patterns, Operators, and Plugins](https://www.amazon.com/Extending-Kubernetes-Extension-Patterns-Operators/dp/1484270940).
+
+## Videos
+
+* [What are Custom Resource Definitions (CRDs) in Kubernetes - CRDs and Operators Part 1](https://www.youtube.com/watch?v=TScDYMym7LA).
+* [Kubernetes CRDs & Operators (Part 2): Writing Your First Operator!](https://www.youtube.com/watch?v=5HJbyLppeZY).
+* [Kubernetes Operators Tutorial (explained with demo)](https://www.youtube.com/watch?v=mTC3UZ8bHJc).
+* [Build Your Own Kubernetes Operators with Go and Kubebuilder](https://www.youtube.com/watch?v=odP153inZUo\&t=1s).
+* [Creating Kubernetes Operator using operator-sdk](https://www.youtube.com/watch?v=FHjLL5e7h00).
+* [Writing a Kubernetes Operator from Scratch Using Kubebuilder](https://www.youtube.com/watch?v=LLVoyXjYlYM).
+* [Hands-on Demo: Introduction to Kubernetes Operators](https://www.youtube.com/watch?v=wDLbqlEHuBc).
+* [Kubernetes Operator simply explained in 10 mins](https://www.youtube.com/watch?v=ha3LjlD6g7g).
+* [Kubernetes Operators Explained](https://www.youtube.com/watch?v=i9V4oCa5f9I).
+* [Introduction to Kubernetes Operators](https://developer.ibm.com/articles/introduction-to-kubernetes-operators/).
+* [introduction to Kubernetes Operators](https://www.youtube.com/watch?v=KRNlDQTeFKs).
+* [Kubernetes Operators: Talk 2: How to build operators](https://www.redhat.com/en/about/videos/kubernetes-operators-talk-2-how-to-build-operators).
+* [Automating Stateful Applications with Kubernetes Operators](https://www.openstack.org/videos/summits/berlin-2018/automating-stateful-applications-with-kubernetes-operators).
+* [Building Kubernetes Operators in an Ansible-native way](https://chrisshort.net/video/building-kubernetes-operators-ansible-native-way/).
+* [Learn how Kubernetes Operators work from this example](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/kubernetes-operators-example-tutorial-k8s-docker-mariadb).
+* [Write your first simple Kubernetes operator](https://suedbroecker.net/2021/02/05/write-your-first-simple-kubernetes-operator/).
+* [Write your first simple Kubernetes operator](https://suedbroecker.net/2021/02/05/write-your-first-simple-kubernetes-operator/).
+* [Write your first simple Kubernetes operator](https://suedbroecker.net/2021/02/05/write-your-first-simple-kubernetes-operator/).
+* [The Automation Challenge: Kubernetes Operators vs Helm Charts](https://www.youtube.com/watch?v=HGHYD7ejBBs).
+* [Creating a Go Operator from scratch](https://www.youtube.com/watch?v=Uu9fwiJBckw).
+* [An overview of Kubernetes operators and the Operator SDK](https://www.youtube.com/watch?v=huX6Sk1lKAY).
+* [Writing a Kubernetes Operator: the Hard Parts](https://www.youtube.com/watch?v=wMqzAOp15wo).
+* [Zero to Operator in 90 Minutes](https://www.youtube.com/watch?v=KBTXBUVNF2I).
+* [A rough guide to Kubernetes Operators](https://www.youtube.com/watch?v=NfxQb--4Wng).
+* [Let's build a Kubernetes Operator in Go!](https://www.youtube.com/watch?v=8Ex7ybi273g\&t=328s).
+* [Introduction to Kubernetes operators and the operator framework](https://www.youtube.com/watch?v=pTbuHoMp68s).
+* [Get on board with kubernetes operators!](https://www.youtube.com/watch?v=JNDjE9-2Bg4).
+* [Kubernetes Operators - Hands on workshop](https://www.youtube.com/watch?v=bWc2D1NSVPQ).
+* [Extending kubernetes with custom controllers](https://www.youtube.com/watch?v=-MawbsIDSk8).
+* [Deep dive into the operator framework for Kubernetes](https://www.youtube.com/watch?v=8_DaCcRMp5I).
+* [Getting started with kubernetes operators in Java](https://www.youtube.com/watch?v=1kePLR2abno).
+* [Writing K8S Operator (Golang) - Part 1](https://www.youtube.com/watch?v=89PdRvRUcPU).
+* [Writing K8S Operator (Golang) - Part 2](https://www.youtube.com/watch?v=MOutOgdXfnA).
+* [Writing K8S Operator (Golang) - Part 3](https://www.youtube.com/watch?v=Wtyj0V4Inmg).
+* [Writing K8S Operator (Golang) - Part 4](https://www.youtube.com/watch?v=BnzfUWQHDzA).
+* [Everything about kubernetes operators](https://www.youtube.com/watch?v=VAojjIYVhGk).
+* [Becoming a kubernetes developer](https://www.youtube.com/watch?v=fDkoxrz7BXw).
+* [Everything you need to know about Kubebuilder: Write operators like a pro](https://www.youtube.com/watch?v=_XUJ1HoinWA).
+* [Building a Kubernetes Operator for Automated Distributed Tracing](https://www.youtube.com/watch?v=lPpYIYx6gcA).
+
+## Operator Frameworks
+
+* [Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ⭐ 9,287 | 🐛 67 | 🌐 Go | 📅 2026-08-13 - The SDK for building Kubernetes APIs using CRDs.
+* [Operator SDK](https://github.com/operator-framework/operator-sdk) ⭐ 7,674 | 🐛 60 | 🌐 Go | 📅 2026-08-09 - Advanced Go SDK for building Kubernetes Operators.
+* [Controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ⭐ 2,940 | 🐛 67 | 🌐 Go | 📅 2026-08-10 - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery).
+* [Shell-operator](https://github.com/flant/shell-operator) ⭐ 2,606 | 🐛 71 | 🌐 Go | 📅 2026-08-03 - Framework for creating K8s operators from scripts.
+* [Kudo](https://github.com/kudobuilder/kudo) ⭐ 1,215 | 🐛 191 | 🌐 Go | 📅 2023-08-22 - Kubernetes Universal Declarative Operator.
+* [Kopf](https://github.com/zalando-incubator/kopf) ⚠️ Archived - A Python framework to write Kubernetes operators in just few lines of code.
+* [Metacontroller](https://github.com/GoogleCloudPlatform/metacontroller) ⚠️ Archived - Lightweight Kubernetes controllers as a service.
+* [Bonny](https://github.com/coryodaniel/bonny) ⭐ 437 | 🐛 22 | 🌐 Elixir | 📅 2026-08-10 - The Elixir based Kubernetes Development Framework.
+* [KubeOps](https://github.com/buehler/dotnet-operator-sdk) ⭐ 368 | 🐛 6 | 🌐 C# | 📅 2026-08-13 - KubeOps is a kubernetes operator sdk in dotnet. Strongly inspired by kubebuilder.
+* [Operatorkit](https://github.com/giantswarm/operatorkit) ⭐ 198 | 🐛 4 | 🌐 Go | 📅 2026-08-13 - An opinionated Go framework for developing Kubernetes operators.
+* [Roperator](https://github.com/psFried/roperator) ⚠️ Archived - Experimental Kubernetes Operator kit written in Rust.
+* [k8s-operator-node](https://github.com/dot-i/k8s-operator-node) ⭐ 179 | 🐛 7 | 🌐 TypeScript | 📅 2025-03-16 - NodeJS Kubernetes operator framework.
+* [Abstract-operator](https://github.com/jvm-operators/abstract-operator) ⭐ 62 | 🐛 8 | 🌐 Java | 📅 2021-08-02 - Library/SDK for creating the operators for Kubernetes and Openshift.
+* [Csharp-operator-sdk](https://github.com/falox/csharp-operator-sdk) ⭐ 16 | 🐛 5 | 🌐 C# | 📅 2020-11-14 - Build Kubernetes operators with C# and .NET Core.
+* [Kube Foundry](https://github.com/kube-foundry/kube-foundry) ⭐ 16 | 🐛 3 | 🌐 Go | 📅 2026-04-01 - Kubernetes operator that runs AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode) in sandboxed pods.
+* [Java-operator-sdk](https://github.com/ContainerSolutions/java-operator-sdk) ⭐ 7 | 🐛 0 | 📅 2021-06-29 - Java SDK for building Kubernetes Operators.
+
+## Catalogs and Hubs
+
+* [OperatorHub.io](https://operatorhub.io/) - The registry for Kubernetes Operators.
+* [Artifact Hub](https://artifacthub.io/packages/search?operators=true\&sort=relevance\&page=1) - Find, install and publish Kubernetes packages.
+
+## Multi-Cluster & Fleet Management
+
+* [KubeStellar](https://github.com/kubestellar/kubestellar) ⭐ 704 | 🐛 204 | 🌐 Go | 📅 2026-08-09 - Multi-cluster configuration management for edge, multi-cloud, and hybrid scenarios using Kubernetes.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-14 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations.
+
+## Dashboards & UIs
+
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-14 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
+
+## Contributing
+
+Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Contributions are always welcome!
+If you have any question about this opinionated list, do not hesitate to contact me [@cpuram1](https://twitter.com/cpuram1) on Twitter or open an issue on GitHub.
+
+Thanks to all [contributors](https://github.com/calvin-puram/awesome-kubernetes-operator-resources/graphs/contributors) ⭐ 248 | 🐛 6 | 📅 2026-04-25; you rock!
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

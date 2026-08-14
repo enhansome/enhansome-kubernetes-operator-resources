@@ -1,0 +1,286 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "What is Kubernetes Operator?"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kubebuilder",
+          "description": "The SDK for building Kubernetes APIs using CRDs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T23:52:43Z",
+            "owner": "kubernetes-sigs",
+            "repo": "kubebuilder",
+            "stars": 9287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Operator SDK",
+          "description": "Advanced Go SDK for building Kubernetes Operators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T07:48:14Z",
+            "owner": "operator-framework",
+            "repo": "operator-sdk",
+            "stars": 7674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Controller-runtime",
+          "description": "Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T14:22:09Z",
+            "owner": "kubernetes-sigs",
+            "repo": "controller-runtime",
+            "stars": 2940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shell-operator",
+          "description": "Framework for creating K8s operators from scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T01:31:29Z",
+            "owner": "flant",
+            "repo": "shell-operator",
+            "stars": 2606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kudo",
+          "description": "Kubernetes Universal Declarative Operator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-08-22T07:57:43Z",
+            "owner": "kudobuilder",
+            "repo": "kudo",
+            "stars": 1215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kopf",
+          "description": "A Python framework to write Kubernetes operators in just few lines of code.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-09-14T15:58:08Z",
+            "owner": "zalando-incubator",
+            "repo": "kopf",
+            "stars": 965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metacontroller",
+          "description": "Lightweight Kubernetes controllers as a service.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2020-08-31T23:56:58Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "metacontroller",
+            "stars": 790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bonny",
+          "description": "The Elixir based Kubernetes Development Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-10T19:02:34Z",
+            "owner": "coryodaniel",
+            "repo": "bonny",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KubeOps",
+          "description": "KubeOps is a kubernetes operator sdk in dotnet. Strongly inspired by kubebuilder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T17:47:39Z",
+            "owner": "dotnet",
+            "repo": "dotnet-operator-sdk",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Operatorkit",
+          "description": "An opinionated Go framework for developing Kubernetes operators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T18:46:04Z",
+            "owner": "giantswarm",
+            "repo": "operatorkit",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roperator",
+          "description": "Experimental Kubernetes Operator kit written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2021-05-11T13:26:23Z",
+            "owner": "psFried",
+            "repo": "roperator",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k8s-operator-node",
+          "description": "NodeJS Kubernetes operator framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-16T15:07:22Z",
+            "owner": "dot-i",
+            "repo": "k8s-operator-node",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Abstract-operator",
+          "description": "Library/SDK for creating the operators for Kubernetes and Openshift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-08-02T03:59:51Z",
+            "owner": "jvm-operators",
+            "repo": "abstract-operator",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Csharp-operator-sdk",
+          "description": "Build Kubernetes operators with C# and .NET Core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-11-14T10:40:05Z",
+            "owner": "falox",
+            "repo": "csharp-operator-sdk",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kube Foundry",
+          "description": "Kubernetes operator that runs AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode) in sandboxed pods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-01T14:53:58Z",
+            "owner": "kube-foundry",
+            "repo": "kube-foundry",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Java-operator-sdk",
+          "description": "Java SDK for building Kubernetes Operators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-06-29T17:46:10Z",
+            "owner": "ContainerSolutions",
+            "repo": "java-operator-sdk",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Operator Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KubeStellar",
+          "description": "Multi-cluster configuration management for edge, multi-cloud, and hybrid scenarios using Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T00:30:28Z",
+            "owner": "kubestellar",
+            "repo": "kubestellar",
+            "stars": 704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KubeStellar Console",
+          "description": "Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T03:43:47Z",
+            "owner": "kubestellar",
+            "repo": "console",
+            "stars": 127
+          }
+        }
+      ],
+      "title": "Multi-Cluster & Fleet Management"
+    },
+    {
+      "description": "Please take a look at the contribution guidelines first. Contributions are always welcome! If you have any question about this opinionated list, do not hesitate to contact me @cpuram1 on Twitter or open an issue on GitHub.\nThanks to all contributors; you rock!",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:53:53.166Z",
+    "original_repository": "calvin-puram/awesome-kubernetes-operator-resources",
+    "original_repository_sha": "571e30328ee04cb40a69c12a1075778e4185efac",
+    "enhanced_repository": "enhansome/enhansome-kubernetes-operator-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome Kubernetes Operator Resources with stars"
+  }
+}
