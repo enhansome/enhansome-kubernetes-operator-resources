@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T23:52:43Z",
+            "last_commit": "2026-08-14T23:53:20Z",
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
-            "stars": 9287
+            "stars": 9290
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-09T07:48:14Z",
             "owner": "operator-framework",
             "repo": "operator-sdk",
-            "stars": 7674
+            "stars": 7673
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-10T14:22:09Z",
             "owner": "kubernetes-sigs",
             "repo": "controller-runtime",
-            "stars": 2940
+            "stars": 2939
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-03T01:31:29Z",
             "owner": "flant",
             "repo": "shell-operator",
-            "stars": 2606
+            "stars": 2605
           }
         },
         {
@@ -128,7 +128,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T17:47:39Z",
+            "last_commit": "2026-08-14T23:03:32Z",
             "owner": "dotnet",
             "repo": "dotnet-operator-sdk",
             "stars": 368
@@ -192,20 +192,6 @@
         },
         {
           "node_type": "item",
-          "title": "Csharp-operator-sdk",
-          "description": "Build Kubernetes operators with C# and .NET Core.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2020-11-14T10:40:05Z",
-            "owner": "falox",
-            "repo": "csharp-operator-sdk",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Kube Foundry",
           "description": "Kubernetes operator that runs AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode) in sandboxed pods.",
           "children": [],
@@ -215,6 +201,20 @@
             "last_commit": "2026-04-01T14:53:58Z",
             "owner": "kube-foundry",
             "repo": "kube-foundry",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Csharp-operator-sdk",
+          "description": "Build Kubernetes operators with C# and .NET Core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-11-14T10:40:05Z",
+            "owner": "falox",
+            "repo": "csharp-operator-sdk",
             "stars": 16
           }
         },
@@ -260,7 +260,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T03:43:47Z",
+            "last_commit": "2026-08-15T01:45:18Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -276,7 +276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:53:53.166Z",
+    "last_updated": "2026-08-15T02:42:38.772Z",
     "original_repository": "calvin-puram/awesome-kubernetes-operator-resources",
     "original_repository_sha": "571e30328ee04cb40a69c12a1075778e4185efac",
     "enhanced_repository": "enhansome/enhansome-kubernetes-operator-resources",
