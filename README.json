@@ -19,7 +19,7 @@
             "last_commit": "2026-08-14T23:53:20Z",
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
-            "stars": 9291
+            "stars": 9293
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-09T07:48:14Z",
             "owner": "operator-framework",
             "repo": "operator-sdk",
-            "stars": 7673
+            "stars": 7672
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-10T14:22:09Z",
             "owner": "kubernetes-sigs",
             "repo": "controller-runtime",
-            "stars": 2940
+            "stars": 2941
           }
         },
         {
@@ -128,7 +128,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T02:53:41Z",
+            "last_commit": "2026-08-16T21:19:07Z",
             "owner": "dotnet",
             "repo": "dotnet-operator-sdk",
             "stars": 368
@@ -173,7 +173,7 @@
             "last_commit": "2025-03-16T15:07:22Z",
             "owner": "dot-i",
             "repo": "k8s-operator-node",
-            "stars": 179
+            "stars": 180
           }
         },
         {
@@ -260,7 +260,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T00:46:37Z",
+            "last_commit": "2026-08-16T22:57:05Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 128
@@ -276,7 +276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:51:06.455Z",
+    "last_updated": "2026-08-17T02:51:11.481Z",
     "original_repository": "calvin-puram/awesome-kubernetes-operator-resources",
     "original_repository_sha": "571e30328ee04cb40a69c12a1075778e4185efac",
     "enhanced_repository": "enhansome/enhansome-kubernetes-operator-resources",
