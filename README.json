@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T23:53:20Z",
+            "last_commit": "2026-08-17T23:57:08Z",
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
-            "stars": 9293
+            "stars": 9291
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-10T14:22:09Z",
+            "last_commit": "2026-08-17T20:44:29Z",
             "owner": "kubernetes-sigs",
             "repo": "controller-runtime",
-            "stars": 2941
+            "stars": 2943
           }
         },
         {
@@ -128,7 +128,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-16T21:19:07Z",
+            "last_commit": "2026-08-17T22:30:05Z",
             "owner": "dotnet",
             "repo": "dotnet-operator-sdk",
             "stars": 368
@@ -142,7 +142,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T18:46:04Z",
+            "last_commit": "2026-08-17T08:50:32Z",
             "owner": "giantswarm",
             "repo": "operatorkit",
             "stars": 198
@@ -260,7 +260,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T22:57:05Z",
+            "last_commit": "2026-08-18T02:25:26Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 128
@@ -276,7 +276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:51:11.481Z",
+    "last_updated": "2026-08-18T02:46:33.442Z",
     "original_repository": "calvin-puram/awesome-kubernetes-operator-resources",
     "original_repository_sha": "571e30328ee04cb40a69c12a1075778e4185efac",
     "enhanced_repository": "enhansome/enhansome-kubernetes-operator-resources",
