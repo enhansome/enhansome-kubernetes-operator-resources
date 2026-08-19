@@ -33,7 +33,7 @@
             "last_commit": "2026-08-09T07:48:14Z",
             "owner": "operator-framework",
             "repo": "operator-sdk",
-            "stars": 7672
+            "stars": 7673
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T20:44:29Z",
+            "last_commit": "2026-08-18T07:09:15Z",
             "owner": "kubernetes-sigs",
             "repo": "controller-runtime",
-            "stars": 2943
+            "stars": 2944
           }
         },
         {
@@ -128,10 +128,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-17T22:30:05Z",
+            "last_commit": "2026-08-19T01:08:06Z",
             "owner": "dotnet",
             "repo": "dotnet-operator-sdk",
-            "stars": 368
+            "stars": 369
           }
         },
         {
@@ -142,7 +142,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T08:50:32Z",
+            "last_commit": "2026-08-18T20:46:39Z",
             "owner": "giantswarm",
             "repo": "operatorkit",
             "stars": 198
@@ -260,10 +260,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T02:25:26Z",
+            "last_commit": "2026-08-19T02:37:26Z",
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 128
+            "stars": 127
           }
         }
       ],
@@ -276,7 +276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:46:33.442Z",
+    "last_updated": "2026-08-19T02:48:08.289Z",
     "original_repository": "calvin-puram/awesome-kubernetes-operator-resources",
     "original_repository_sha": "571e30328ee04cb40a69c12a1075778e4185efac",
     "enhanced_repository": "enhansome/enhansome-kubernetes-operator-resources",
