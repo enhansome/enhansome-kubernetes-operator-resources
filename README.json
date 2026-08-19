@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "What is Kubernetes Operator?"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125275487,
             "language": "Go",
             "last_commit": "2026-08-17T23:57:08Z",
             "owner": "kubernetes-sigs",
@@ -29,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120650407,
             "language": "Go",
-            "last_commit": "2026-08-09T07:48:14Z",
+            "last_commit": "2026-08-19T03:04:00Z",
             "owner": "operator-framework",
             "repo": "operator-sdk",
             "stars": 7673
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136494223,
             "language": "Go",
             "last_commit": "2026-08-18T07:09:15Z",
             "owner": "kubernetes-sigs",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177105422,
             "language": "Go",
             "last_commit": "2026-08-03T01:31:29Z",
             "owner": "flant",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158545617,
             "language": "Go",
             "last_commit": "2023-08-22T07:57:43Z",
             "owner": "kudobuilder",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 177796736,
             "language": "Python",
             "last_commit": "2020-09-14T15:58:08Z",
             "owner": "zalando-incubator",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 103700907,
             "language": "Go",
             "last_commit": "2020-08-31T23:56:58Z",
             "owner": "GoogleCloudPlatform",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161286438,
             "language": "Elixir",
             "last_commit": "2026-08-10T19:02:34Z",
             "owner": "coryodaniel",
@@ -127,8 +130,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261514821,
             "language": "C#",
-            "last_commit": "2026-08-19T01:08:06Z",
+            "last_commit": "2026-08-19T04:27:18Z",
             "owner": "dotnet",
             "repo": "dotnet-operator-sdk",
             "stars": 369
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87818870,
             "language": "Go",
             "last_commit": "2026-08-18T20:46:39Z",
             "owner": "giantswarm",
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 222706404,
             "language": "Rust",
             "last_commit": "2021-05-11T13:26:23Z",
             "owner": "psFried",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196948932,
             "language": "TypeScript",
             "last_commit": "2025-03-16T15:07:22Z",
             "owner": "dot-i",
@@ -183,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142886726,
             "language": "Java",
             "last_commit": "2021-08-02T03:59:51Z",
             "owner": "jvm-operators",
@@ -197,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1194888560,
             "language": "Go",
             "last_commit": "2026-04-01T14:53:58Z",
             "owner": "kube-foundry",
@@ -211,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 298021415,
             "language": "C#",
             "last_commit": "2020-11-14T10:40:05Z",
             "owner": "falox",
@@ -225,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383417102,
             "language": null,
             "last_commit": "2021-06-29T17:46:10Z",
             "owner": "ContainerSolutions",
@@ -236,7 +247,7 @@
       "title": "Operator Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -245,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 561356395,
             "language": "Go",
             "last_commit": "2026-08-09T00:30:28Z",
             "owner": "kubestellar",
@@ -259,8 +271,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T02:37:26Z",
+            "last_commit": "2026-08-19T11:48:09Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -268,16 +281,12 @@
         }
       ],
       "title": "Multi-Cluster & Fleet Management"
-    },
-    {
-      "description": "Please take a look at the contribution guidelines first. Contributions are always welcome! If you have any question about this opinionated list, do not hesitate to contact me @cpuram1 on Twitter or open an issue on GitHub.\nThanks to all contributors; you rock!",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:48:08.289Z",
+    "last_updated": "2026-08-19T12:39:52.382Z",
     "original_repository": "calvin-puram/awesome-kubernetes-operator-resources",
+    "original_repository_id": 556701287,
     "original_repository_sha": "571e30328ee04cb40a69c12a1075778e4185efac",
     "enhanced_repository": "enhansome/enhansome-kubernetes-operator-resources",
     "enhanced_repository_description": null,
