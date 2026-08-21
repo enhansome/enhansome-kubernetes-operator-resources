@@ -12,10 +12,10 @@
             "archived": false,
             "id": 125275487,
             "language": "Go",
-            "last_commit": "2026-08-17T23:57:08Z",
+            "last_commit": "2026-08-20T22:39:27Z",
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
-            "stars": 9293
+            "stars": 9294
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T03:04:00Z",
             "owner": "operator-framework",
             "repo": "operator-sdk",
-            "stars": 7673
+            "stars": 7675
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 136494223,
             "language": "Go",
-            "last_commit": "2026-08-18T07:09:15Z",
+            "last_commit": "2026-08-20T15:01:15Z",
             "owner": "kubernetes-sigs",
             "repo": "controller-runtime",
-            "stars": 2944
+            "stars": 2945
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 177105422,
             "language": "Go",
-            "last_commit": "2026-08-03T01:31:29Z",
+            "last_commit": "2026-08-20T15:11:35Z",
             "owner": "flant",
             "repo": "shell-operator",
             "stars": 2605
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 261514821,
             "language": "C#",
-            "last_commit": "2026-08-19T23:08:43Z",
+            "last_commit": "2026-08-21T01:41:14Z",
             "owner": "dotnet",
             "repo": "dotnet-operator-sdk",
             "stars": 370
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 87818870,
             "language": "Go",
-            "last_commit": "2026-08-19T18:01:52Z",
+            "last_commit": "2026-08-21T02:05:00Z",
             "owner": "giantswarm",
             "repo": "operatorkit",
             "stars": 198
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T23:17:56Z",
+            "last_commit": "2026-08-21T01:19:11Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:47:19.682Z",
+    "last_updated": "2026-08-21T02:53:59.121Z",
     "original_repository": "calvin-puram/awesome-kubernetes-operator-resources",
     "original_repository_id": 556701287,
     "original_repository_sha": "571e30328ee04cb40a69c12a1075778e4185efac",
