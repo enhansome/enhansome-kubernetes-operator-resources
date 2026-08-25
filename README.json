@@ -273,7 +273,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T02:06:00Z",
+            "last_commit": "2026-08-25T06:04:57Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:49:30.653Z",
+    "last_updated": "2026-08-25T06:21:23.105Z",
     "original_repository": "calvin-puram/awesome-kubernetes-operator-resources",
     "original_repository_id": 556701287,
     "original_repository_sha": "571e30328ee04cb40a69c12a1075778e4185efac",
