@@ -12,10 +12,10 @@
             "archived": false,
             "id": 125275487,
             "language": "Go",
-            "last_commit": "2026-08-20T22:39:27Z",
+            "last_commit": "2026-08-24T23:55:40Z",
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
-            "stars": 9293
+            "stars": 9295
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 136494223,
             "language": "Go",
-            "last_commit": "2026-08-20T15:01:15Z",
+            "last_commit": "2026-08-24T20:45:42Z",
             "owner": "kubernetes-sigs",
             "repo": "controller-runtime",
             "stars": 2946
@@ -258,7 +258,7 @@
             "archived": false,
             "id": 561356395,
             "language": "Go",
-            "last_commit": "2026-08-09T00:30:28Z",
+            "last_commit": "2026-08-24T21:47:40Z",
             "owner": "kubestellar",
             "repo": "kubestellar",
             "stars": 704
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:30:32Z",
+            "last_commit": "2026-08-25T02:06:00Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:31:19.113Z",
+    "last_updated": "2026-08-25T02:49:30.653Z",
     "original_repository": "calvin-puram/awesome-kubernetes-operator-resources",
     "original_repository_id": 556701287,
     "original_repository_sha": "571e30328ee04cb40a69c12a1075778e4185efac",
