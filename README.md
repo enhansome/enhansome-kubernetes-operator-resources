@@ -105,7 +105,7 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 
 * [Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ⭐ 9,294 | 🐛 73 | 🌐 Go | 📅 2026-08-27 - The SDK for building Kubernetes APIs using CRDs.
 * [Operator SDK](https://github.com/operator-framework/operator-sdk) ⭐ 7,674 | 🐛 70 | 🌐 Go | 📅 2026-08-24 - Advanced Go SDK for building Kubernetes Operators.
-* [Controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ⭐ 2,947 | 🐛 73 | 🌐 Go | 📅 2026-08-25 - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery).
+* [Controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ⭐ 2,947 | 🐛 72 | 🌐 Go | 📅 2026-08-27 - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery).
 * [Shell-operator](https://github.com/flant/shell-operator) ⭐ 2,605 | 🐛 70 | 🌐 Go | 📅 2026-08-21 - Framework for creating K8s operators from scripts.
 * [Kudo](https://github.com/kudobuilder/kudo) ⭐ 1,215 | 🐛 191 | 🌐 Go | 📅 2023-08-22 - Kubernetes Universal Declarative Operator.
 * [Kopf](https://github.com/zalando-incubator/kopf) ⚠️ Archived - A Python framework to write Kubernetes operators in just few lines of code.

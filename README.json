@@ -42,7 +42,7 @@
             "archived": false,
             "id": 136494223,
             "language": "Go",
-            "last_commit": "2026-08-25T06:31:10Z",
+            "last_commit": "2026-08-27T11:53:47Z",
             "owner": "kubernetes-sigs",
             "repo": "controller-runtime",
             "stars": 2947
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:49:47.446Z",
+    "last_updated": "2026-08-27T12:14:32.660Z",
     "original_repository_info": {
       "archived": false,
       "id": 556701287,
