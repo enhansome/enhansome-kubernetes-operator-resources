@@ -12,11 +12,12 @@
             "archived": false,
             "id": 125275487,
             "language": "Go",
-            "last_commit": "2026-08-27T09:37:46Z",
+            "last_commit": "2026-08-28T08:20:15Z",
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
-            "stars": 9294
-          }
+            "stars": 9296
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-24T04:52:27Z",
             "owner": "operator-framework",
             "repo": "operator-sdk",
-            "stars": 7674
-          }
+            "stars": 7677
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-27T11:53:47Z",
             "owner": "kubernetes-sigs",
             "repo": "controller-runtime",
-            "stars": 2947
-          }
+            "stars": 2948
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "flant",
             "repo": "shell-operator",
             "stars": 2605
-          }
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "kudobuilder",
             "repo": "kudo",
             "stars": 1215
-          }
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "zalando-incubator",
             "repo": "kopf",
             "stars": 965
-          }
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "GoogleCloudPlatform",
             "repo": "metacontroller",
             "stars": 790
-          }
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "coryodaniel",
             "repo": "bonny",
             "stars": 437
-          }
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "dotnet",
             "repo": "dotnet-operator-sdk",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "giantswarm",
             "repo": "operatorkit",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "psFried",
             "repo": "roperator",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "dot-i",
             "repo": "k8s-operator-node",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "jvm-operators",
             "repo": "abstract-operator",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "kube-foundry",
             "repo": "kube-foundry",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "falox",
             "repo": "csharp-operator-sdk",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "ContainerSolutions",
             "repo": "java-operator-sdk",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         }
       ],
       "title": "Operator Frameworks"
@@ -262,7 +278,8 @@
             "owner": "kubestellar",
             "repo": "kubestellar",
             "stars": 706
-          }
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         },
         {
           "node_type": "item",
@@ -273,18 +290,19 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:09:43Z",
+            "last_commit": "2026-08-28T12:30:07Z",
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 128
-          }
+            "stars": 129
+          },
+          "first_seen": "2026-08-28T13:29:21.670Z"
         }
       ],
       "title": "Multi-Cluster & Fleet Management"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:14:32.660Z",
+    "last_updated": "2026-08-28T13:29:21.670Z",
     "original_repository_info": {
       "archived": false,
       "id": 556701287,
