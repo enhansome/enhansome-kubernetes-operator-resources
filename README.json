@@ -16,7 +16,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:20:15Z",
-            "open_issues": 74,
+            "open_issues": 76,
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
             "stars": 9296,
@@ -470,8 +470,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:48:09Z",
-            "open_issues": 12,
+            "last_commit": "2026-08-29T08:17:06Z",
+            "open_issues": 15,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 129,
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:50:22.119Z",
+    "last_updated": "2026-08-29T08:23:20.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources: articles, books and videos about Kubernetes Operators.",
