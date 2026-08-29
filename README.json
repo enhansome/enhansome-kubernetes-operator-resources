@@ -10,12 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+            "homepage": "http://book.kubebuilder.io",
             "id": 125275487,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:20:15Z",
+            "open_issues": 74,
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
-            "stars": 9296
+            "stars": 9296,
+            "topics": [
+              "k8s-sig-api-machinery"
+            ]
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         },
@@ -26,12 +33,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+            "homepage": "https://sdk.operatorframework.io",
             "id": 120650407,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T04:52:27Z",
+            "open_issues": 69,
             "owner": "operator-framework",
             "repo": "operator-sdk",
-            "stars": 7677
+            "stars": 7677,
+            "topics": [
+              "kubernetes",
+              "operator",
+              "sdk"
+            ]
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         },
@@ -42,12 +58,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)",
+            "homepage": null,
             "id": 136494223,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T11:53:47Z",
+            "open_issues": 72,
             "owner": "kubernetes-sigs",
             "repo": "controller-runtime",
-            "stars": 2948
+            "stars": 2949,
+            "topics": [
+              "k8s-sig-api-machinery"
+            ]
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         },
@@ -58,12 +81,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster",
+            "homepage": "https://flant.github.io/shell-operator/",
             "id": 177105422,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T10:58:06Z",
+            "open_issues": 70,
             "owner": "flant",
             "repo": "shell-operator",
-            "stars": 2605
+            "stars": 2605,
+            "topics": [
+              "bash",
+              "devops",
+              "kubernetes",
+              "kubernetes-operator",
+              "python",
+              "shell-scripting"
+            ]
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         },
@@ -74,12 +109,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes Universal Declarative Operator (KUDO)",
+            "homepage": "https://kudo.dev",
             "id": 158545617,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-22T07:57:43Z",
+            "open_issues": 191,
             "owner": "kudobuilder",
             "repo": "kudo",
-            "stars": 1215
+            "stars": 1215,
+            "topics": [
+              "cluster",
+              "cncf",
+              "crd",
+              "hacktoberfest",
+              "kafka",
+              "kubernetes",
+              "kubernetes-community",
+              "kubernetes-controller",
+              "kubernetes-operator",
+              "kudo",
+              "maestro",
+              "mysql",
+              "operator",
+              "sdk",
+              "zookeeper"
+            ]
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         },
@@ -90,12 +146,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Python framework to write Kubernetes operators in just few lines of code.",
+            "homepage": "https://kopf.readthedocs.io",
             "id": 177796736,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-09-14T15:58:08Z",
+            "open_issues": 70,
             "owner": "zalando-incubator",
             "repo": "kopf",
-            "stars": 965
+            "stars": 965,
+            "topics": [
+              "asyncio",
+              "domain-driven-design",
+              "framework",
+              "kubernetes",
+              "kubernetes-operator",
+              "operator",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         },
@@ -106,12 +176,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lightweight Kubernetes controllers as a service",
+            "homepage": "https://metacontroller.app/",
             "id": 103700907,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2020-08-31T23:56:58Z",
+            "open_issues": 57,
             "owner": "GoogleCloudPlatform",
             "repo": "metacontroller",
-            "stars": 790
+            "stars": 790,
+            "topics": [
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         },
@@ -122,12 +199,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Elixir based Kubernetes Development Framework",
+            "homepage": null,
             "id": 161286438,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2026-08-10T19:02:34Z",
+            "open_issues": 22,
             "owner": "coryodaniel",
             "repo": "bonny",
-            "stars": 437
+            "stars": 437,
+            "topics": [
+              "elixir",
+              "erlang",
+              "k8s",
+              "kubernetes",
+              "kubernetes-api",
+              "kubernetes-controller",
+              "kubernetes-operator",
+              "kubernetes-scheduler"
+            ]
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         },
@@ -138,12 +229,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KubeOps is a Kubernetes operator sdk in dotnet. Strongly inspired by kubebuilder.",
+            "homepage": "https://dotnet.github.io/dotnet-operator-sdk/",
             "id": 261514821,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T02:18:21Z",
+            "open_issues": 3,
             "owner": "dotnet",
             "repo": "dotnet-operator-sdk",
-            "stars": 371
+            "stars": 371,
+            "topics": [
+              "crds",
+              "dotnet",
+              "kubernetes",
+              "kubernetes-operator-sdk",
+              "operator",
+              "sdk"
+            ]
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         },
@@ -154,12 +257,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An opinionated Go framework for developing Kubernetes operators",
+            "homepage": "https://godoc.org/github.com/giantswarm/operatorkit",
             "id": 87818870,
             "language": "Go",
-            "last_commit": "2026-08-27T01:39:55Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:14:41Z",
+            "open_issues": 5,
             "owner": "giantswarm",
             "repo": "operatorkit",
-            "stars": 198
+            "stars": 198,
+            "topics": [
+              "framework",
+              "go",
+              "kubernetes",
+              "library",
+              "operator"
+            ]
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         },
@@ -170,12 +284,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Experimental Kubernetes Operator kit written in Rust",
+            "homepage": null,
             "id": 222706404,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2021-05-11T13:26:23Z",
+            "open_issues": 3,
             "owner": "psFried",
             "repo": "roperator",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "kubernetes",
+              "kubernetes-operator",
+              "rust-library"
+            ]
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         },
@@ -186,12 +309,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NodeJS Kubernetes operator framework",
+            "homepage": null,
             "id": 196948932,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-16T15:07:22Z",
+            "open_issues": 7,
             "owner": "dot-i",
             "repo": "k8s-operator-node",
-            "stars": 180
+            "stars": 180,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         },
@@ -202,12 +330,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library/SDK for creating the operators for Kubernetes and Openshift.",
+            "homepage": null,
             "id": 142886726,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-02T03:59:51Z",
+            "open_issues": 8,
             "owner": "jvm-operators",
             "repo": "abstract-operator",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "kubernetes",
+              "kubernetes-operator",
+              "openshift"
+            ]
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         },
@@ -218,12 +355,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1194888560,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-01T14:53:58Z",
+            "open_issues": 3,
             "owner": "kube-foundry",
             "repo": "kube-foundry",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         },
@@ -234,12 +376,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build Kubernetes operators with C# and .NET Core",
+            "homepage": null,
             "id": 298021415,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2020-11-14T10:40:05Z",
+            "open_issues": 5,
             "owner": "falox",
             "repo": "csharp-operator-sdk",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "csharp",
+              "dotnet-core",
+              "dotnetcore",
+              "kubernetes",
+              "kubernetes-operator"
+            ]
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         },
@@ -250,12 +403,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java SDK for building Kubernetes Operators",
+            "homepage": null,
             "id": 383417102,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2021-06-29T17:46:10Z",
+            "open_issues": 0,
             "owner": "ContainerSolutions",
             "repo": "java-operator-sdk",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         }
@@ -272,12 +430,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KubeStellar - a flexible solution for multi-cluster configuration management for edge, multi-cloud, and hybrid cloud",
+            "homepage": "https://kubestellar.io",
             "id": 561356395,
             "language": "Go",
-            "last_commit": "2026-08-24T21:47:40Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T17:02:51Z",
+            "open_issues": 210,
             "owner": "kubestellar",
             "repo": "kubestellar",
-            "stars": 706
+            "stars": 706,
+            "topics": [
+              "deployment",
+              "edge",
+              "edge-mc",
+              "gitops",
+              "hacktoberfest",
+              "kubernetes",
+              "kubestellar",
+              "placement",
+              "rollout",
+              "scheduling",
+              "status",
+              "summarization",
+              "synching"
+            ]
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         },
@@ -288,12 +465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+            "homepage": "https://console.kubestellar.io",
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T12:30:07Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:48:09Z",
+            "open_issues": 12,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
         }
@@ -302,15 +484,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:29:21.670Z",
+    "last_updated": "2026-08-29T04:50:22.119Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome resources: articles, books and videos about Kubernetes Operators.",
+      "homepage": null,
       "id": 556701287,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-25T08:57:34Z",
+      "open_issues": 6,
       "owner": "calvin-puram",
       "repo": "awesome-kubernetes-operator-resources",
-      "stars": 248
+      "stars": 248,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cloud-native-applications",
+        "controller",
+        "kubernetes",
+        "kubernetes-operator",
+        "operator-framework",
+        "operators"
+      ]
     },
     "original_repository_sha": "571e30328ee04cb40a69c12a1075778e4185efac",
     "enhanced_repository": "enhansome/enhansome-kubernetes-operator-resources",
