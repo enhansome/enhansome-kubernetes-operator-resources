@@ -15,11 +15,11 @@
             "id": 125275487,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T08:20:15Z",
-            "open_issues": 76,
+            "last_commit": "2026-08-29T22:10:19Z",
+            "open_issues": 71,
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
-            "stars": 9296,
+            "stars": 9299,
             "topics": [
               "k8s-sig-api-machinery"
             ]
@@ -67,7 +67,7 @@
             "open_issues": 72,
             "owner": "kubernetes-sigs",
             "repo": "controller-runtime",
-            "stars": 2949,
+            "stars": 2950,
             "topics": [
               "k8s-sig-api-machinery"
             ]
@@ -90,7 +90,7 @@
             "open_issues": 70,
             "owner": "flant",
             "repo": "shell-operator",
-            "stars": 2605,
+            "stars": 2606,
             "topics": [
               "bash",
               "devops",
@@ -262,8 +262,8 @@
             "id": 87818870,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T02:14:41Z",
-            "open_issues": 5,
+            "last_commit": "2026-08-30T05:41:22Z",
+            "open_issues": 4,
             "owner": "giantswarm",
             "repo": "operatorkit",
             "stars": 198,
@@ -470,11 +470,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T08:17:06Z",
-            "open_issues": 15,
+            "last_commit": "2026-08-30T07:23:12Z",
+            "open_issues": 17,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:23:20.873Z",
+    "last_updated": "2026-08-30T07:37:24.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources: articles, books and videos about Kubernetes Operators.",
