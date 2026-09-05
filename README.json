@@ -15,11 +15,11 @@
             "id": 125275487,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T16:00:29Z",
-            "open_issues": 71,
+            "last_commit": "2026-09-04T11:00:21Z",
+            "open_issues": 69,
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
-            "stars": 9302,
+            "stars": 9304,
             "topics": [
               "k8s-sig-api-machinery"
             ]
@@ -64,10 +64,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T15:13:41Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "kubernetes-sigs",
             "repo": "controller-runtime",
-            "stars": 2953,
+            "stars": 2952,
             "topics": [
               "k8s-sig-api-machinery"
             ]
@@ -86,8 +86,8 @@
             "id": 177105422,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T07:12:14Z",
-            "open_issues": 72,
+            "last_commit": "2026-09-04T11:57:32Z",
+            "open_issues": 73,
             "owner": "flant",
             "repo": "shell-operator",
             "stars": 2607,
@@ -262,8 +262,8 @@
             "id": 87818870,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T01:09:13Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-04T15:42:49Z",
+            "open_issues": 5,
             "owner": "giantswarm",
             "repo": "operatorkit",
             "stars": 198,
@@ -470,8 +470,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T06:04:18Z",
-            "open_issues": 73,
+            "last_commit": "2026-09-05T05:47:12Z",
+            "open_issues": 100,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 132,
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T06:41:18.774Z",
+    "last_updated": "2026-09-05T06:27:27.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources: articles, books and videos about Kubernetes Operators.",
