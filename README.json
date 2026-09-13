@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T23:52:49Z",
-            "open_issues": 63,
+            "open_issues": 64,
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
-            "stars": 9310,
+            "stars": 9313,
             "topics": [
               "k8s-sig-api-machinery"
             ]
@@ -234,8 +234,8 @@
             "id": 261514821,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T20:07:16Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-12T21:50:10Z",
+            "open_issues": 4,
             "owner": "dotnet",
             "repo": "dotnet-operator-sdk",
             "stars": 371,
@@ -364,7 +364,7 @@
             "open_issues": 3,
             "owner": "kube-foundry",
             "repo": "kube-foundry",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
@@ -436,10 +436,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T07:28:33Z",
-            "open_issues": 213,
+            "open_issues": 214,
             "owner": "kubestellar",
             "repo": "kubestellar",
-            "stars": 711,
+            "stars": 712,
             "topics": [
               "deployment",
               "edge",
@@ -470,11 +470,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T06:08:25Z",
-            "open_issues": 148,
+            "last_commit": "2026-09-13T06:52:07Z",
+            "open_issues": 143,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 133,
+            "stars": 134,
             "topics": []
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T06:39:17.275Z",
+    "last_updated": "2026-09-13T06:56:10.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources: articles, books and videos about Kubernetes Operators.",
