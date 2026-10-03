@@ -470,7 +470,7 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T04:44:11Z",
+            "last_commit": "2026-10-03T05:45:35Z",
             "open_issues": 4,
             "owner": "kubestellar",
             "repo": "console",
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:51:16.761Z",
+    "last_updated": "2026-10-03T07:13:42.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources: articles, books and videos about Kubernetes Operators.",
