@@ -86,8 +86,8 @@
             "id": 177105422,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T12:47:16Z",
-            "open_issues": 74,
+            "last_commit": "2026-10-06T10:40:04Z",
+            "open_issues": 75,
             "owner": "flant",
             "repo": "shell-operator",
             "stars": 2606,
@@ -470,8 +470,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T07:46:22Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-06T09:42:15Z",
+            "open_issues": 3,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 141,
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:16:16.559Z",
+    "last_updated": "2026-10-06T10:45:45.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources: articles, books and videos about Kubernetes Operators.",

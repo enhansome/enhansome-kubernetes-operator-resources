@@ -106,7 +106,7 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 * [Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ⭐ 9,336 | 🐛 73 | 🌐 Go | 📅 2026-10-05 - The SDK for building Kubernetes APIs using CRDs.
 * [Operator SDK](https://github.com/operator-framework/operator-sdk) ⭐ 7,684 | 🐛 77 | 🌐 Go | 📅 2026-09-29 - Advanced Go SDK for building Kubernetes Operators.
 * [Controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ⭐ 2,973 | 🐛 64 | 🌐 Go | 📅 2026-10-05 - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery).
-* [Shell-operator](https://github.com/flant/shell-operator) ⭐ 2,606 | 🐛 74 | 🌐 Go | 📅 2026-10-02 - Framework for creating K8s operators from scripts.
+* [Shell-operator](https://github.com/flant/shell-operator) ⭐ 2,606 | 🐛 75 | 🌐 Go | 📅 2026-10-06 - Framework for creating K8s operators from scripts.
 * [Kudo](https://github.com/kudobuilder/kudo) ⭐ 1,214 | 🐛 190 | 🌐 Go | 📅 2023-08-22 - Kubernetes Universal Declarative Operator.
 * [Kopf](https://github.com/zalando-incubator/kopf) ⚠️ Archived - A Python framework to write Kubernetes operators in just few lines of code.
 * [Metacontroller](https://github.com/GoogleCloudPlatform/metacontroller) ⚠️ Archived - Lightweight Kubernetes controllers as a service.
@@ -128,11 +128,11 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 ## Multi-Cluster & Fleet Management
 
 * [KubeStellar](https://github.com/kubestellar/kubestellar) ⭐ 716 | 🐛 211 | 🌐 Go | 📅 2026-10-02 - Multi-cluster configuration management for edge, multi-cloud, and hybrid scenarios using Kubernetes.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 141 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-06 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 141 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-06 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations.
 
 ## Dashboards & UIs
 
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 141 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-06 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 141 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-06 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 ## Contributing
 
