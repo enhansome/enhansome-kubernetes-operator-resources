@@ -19,7 +19,7 @@
             "open_issues": 82,
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
-            "stars": 9346,
+            "stars": 9347,
             "topics": [
               "k8s-sig-api-machinery"
             ]
@@ -64,7 +64,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T13:34:42Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "kubernetes-sigs",
             "repo": "controller-runtime",
             "stars": 2973,
@@ -436,7 +436,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T21:24:00Z",
-            "open_issues": 213,
+            "open_issues": 212,
             "owner": "kubestellar",
             "repo": "kubestellar",
             "stars": 716,
@@ -470,8 +470,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T05:57:10Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-11T05:58:44Z",
+            "open_issues": 9,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 143,
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T07:52:00.676Z",
+    "last_updated": "2026-10-11T07:58:40.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources: articles, books and videos about Kubernetes Operators.",
