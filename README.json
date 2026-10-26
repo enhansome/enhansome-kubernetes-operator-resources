@@ -15,11 +15,11 @@
             "id": 125275487,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T14:24:13Z",
-            "open_issues": 68,
+            "last_commit": "2026-10-25T18:38:06Z",
+            "open_issues": 69,
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
-            "stars": 9353,
+            "stars": 9355,
             "topics": [
               "k8s-sig-api-machinery"
             ]
@@ -234,7 +234,7 @@
             "id": 261514821,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T21:34:53Z",
+            "last_commit": "2026-10-25T21:44:08Z",
             "open_issues": 4,
             "owner": "dotnet",
             "repo": "dotnet-operator-sdk",
@@ -262,8 +262,8 @@
             "id": 87818870,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T06:11:58Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-25T09:05:42Z",
+            "open_issues": 6,
             "owner": "giantswarm",
             "repo": "operatorkit",
             "stars": 198,
@@ -470,8 +470,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T05:59:14Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-26T05:58:12Z",
+            "open_issues": 7,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 150,
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:04:14.063Z",
+    "last_updated": "2026-10-26T07:11:14.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources: articles, books and videos about Kubernetes Operators.",
