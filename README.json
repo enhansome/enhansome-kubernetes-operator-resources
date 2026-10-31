@@ -15,11 +15,11 @@
             "id": 125275487,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T11:51:01Z",
+            "last_commit": "2026-10-30T11:16:57Z",
             "open_issues": 65,
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
-            "stars": 9357,
+            "stars": 9358,
             "topics": [
               "k8s-sig-api-machinery"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 80,
             "owner": "operator-framework",
             "repo": "operator-sdk",
-            "stars": 7689,
+            "stars": 7687,
             "topics": [
               "kubernetes",
               "operator",
@@ -64,7 +64,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T19:29:18Z",
-            "open_issues": 64,
+            "open_issues": 67,
             "owner": "kubernetes-sigs",
             "repo": "controller-runtime",
             "stars": 2982,
@@ -435,7 +435,7 @@
             "id": 561356395,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T04:19:31Z",
+            "last_commit": "2026-10-30T20:31:41Z",
             "open_issues": 234,
             "owner": "kubestellar",
             "repo": "kubestellar",
@@ -470,8 +470,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T05:55:26Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-31T07:33:05Z",
+            "open_issues": 33,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 152,
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T07:51:50.712Z",
+    "last_updated": "2026-10-31T07:40:43.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources: articles, books and videos about Kubernetes Operators.",
