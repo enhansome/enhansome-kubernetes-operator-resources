@@ -16,7 +16,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T11:16:57Z",
-            "open_issues": 65,
+            "open_issues": 67,
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
             "stars": 9358,
@@ -64,7 +64,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T19:29:18Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "kubernetes-sigs",
             "repo": "controller-runtime",
             "stars": 2982,
@@ -185,7 +185,7 @@
             "open_issues": 57,
             "owner": "GoogleCloudPlatform",
             "repo": "metacontroller",
-            "stars": 788,
+            "stars": 787,
             "topics": [
               "kubernetes"
             ]
@@ -436,7 +436,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T20:31:41Z",
-            "open_issues": 234,
+            "open_issues": 240,
             "owner": "kubestellar",
             "repo": "kubestellar",
             "stars": 726,
@@ -470,8 +470,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T05:52:42Z",
-            "open_issues": 38,
+            "last_commit": "2026-11-02T05:56:08Z",
+            "open_issues": 41,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 152,
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T08:19:49.830Z",
+    "last_updated": "2026-11-02T08:33:51.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources: articles, books and videos about Kubernetes Operators.",
