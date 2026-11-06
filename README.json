@@ -15,11 +15,11 @@
             "id": 125275487,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T19:30:47Z",
-            "open_issues": 69,
+            "last_commit": "2026-11-05T23:52:45Z",
+            "open_issues": 72,
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
-            "stars": 9360,
+            "stars": 9361,
             "topics": [
               "k8s-sig-api-machinery"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 81,
             "owner": "operator-framework",
             "repo": "operator-sdk",
-            "stars": 7688,
+            "stars": 7689,
             "topics": [
               "kubernetes",
               "operator",
@@ -64,10 +64,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T06:41:14Z",
-            "open_issues": 69,
+            "open_issues": 68,
             "owner": "kubernetes-sigs",
             "repo": "controller-runtime",
-            "stars": 2984,
+            "stars": 2986,
             "topics": [
               "k8s-sig-api-machinery"
             ]
@@ -86,8 +86,8 @@
             "id": 177105422,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T11:13:17Z",
-            "open_issues": 64,
+            "last_commit": "2026-11-05T11:43:23Z",
+            "open_issues": 65,
             "owner": "flant",
             "repo": "shell-operator",
             "stars": 2611,
@@ -234,7 +234,7 @@
             "id": 261514821,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T21:58:15Z",
+            "last_commit": "2026-11-05T20:22:26Z",
             "open_issues": 4,
             "owner": "dotnet",
             "repo": "dotnet-operator-sdk",
@@ -262,7 +262,7 @@
             "id": 87818870,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T18:16:03Z",
+            "last_commit": "2026-11-06T07:17:53Z",
             "open_issues": 4,
             "owner": "giantswarm",
             "repo": "operatorkit",
@@ -436,10 +436,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-04T06:08:49Z",
-            "open_issues": 230,
+            "open_issues": 231,
             "owner": "kubestellar",
             "repo": "kubestellar",
-            "stars": 726,
+            "stars": 728,
             "topics": [
               "deployment",
               "edge",
@@ -470,11 +470,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T07:38:17Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-06T07:52:59Z",
+            "open_issues": 49,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 152,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T08:40:49.991Z",
+    "last_updated": "2026-11-06T08:41:53.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources: articles, books and videos about Kubernetes Operators.",
