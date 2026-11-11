@@ -19,7 +19,7 @@
             "open_issues": 78,
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
-            "stars": 9361,
+            "stars": 9364,
             "topics": [
               "k8s-sig-api-machinery"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 85,
             "owner": "operator-framework",
             "repo": "operator-sdk",
-            "stars": 7690,
+            "stars": 7692,
             "topics": [
               "kubernetes",
               "operator",
@@ -63,11 +63,11 @@
             "id": 136494223,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T20:42:51Z",
-            "open_issues": 67,
+            "last_commit": "2026-11-10T10:45:49Z",
+            "open_issues": 68,
             "owner": "kubernetes-sigs",
             "repo": "controller-runtime",
-            "stars": 2989,
+            "stars": 2992,
             "topics": [
               "k8s-sig-api-machinery"
             ]
@@ -86,7 +86,7 @@
             "id": 177105422,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T08:33:56Z",
+            "last_commit": "2026-11-10T12:36:39Z",
             "open_issues": 65,
             "owner": "flant",
             "repo": "shell-operator",
@@ -234,8 +234,8 @@
             "id": 261514821,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T16:02:28Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-11T08:22:17Z",
+            "open_issues": 6,
             "owner": "dotnet",
             "repo": "dotnet-operator-sdk",
             "stars": 376,
@@ -262,7 +262,7 @@
             "id": 87818870,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T02:12:56Z",
+            "last_commit": "2026-11-11T02:39:38Z",
             "open_issues": 4,
             "owner": "giantswarm",
             "repo": "operatorkit",
@@ -470,11 +470,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T06:38:49Z",
+            "last_commit": "2026-11-11T08:32:02Z",
             "open_issues": 15,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 151,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:54:49.134Z",
+    "last_updated": "2026-11-11T08:34:55.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources: articles, books and videos about Kubernetes Operators.",
@@ -496,7 +496,7 @@
       "open_issues": 9,
       "owner": "calvin-puram",
       "repo": "awesome-kubernetes-operator-resources",
-      "stars": 250,
+      "stars": 249,
       "topics": [
         "awesome",
         "awesome-list",
