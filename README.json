@@ -15,11 +15,11 @@
             "id": 125275487,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T02:56:06Z",
-            "open_issues": 66,
+            "last_commit": "2026-11-15T11:08:05Z",
+            "open_issues": 57,
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
-            "stars": 9368,
+            "stars": 9370,
             "topics": [
               "k8s-sig-api-machinery"
             ]
@@ -63,11 +63,11 @@
             "id": 136494223,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T23:00:07Z",
-            "open_issues": 76,
+            "last_commit": "2026-11-15T19:47:56Z",
+            "open_issues": 72,
             "owner": "kubernetes-sigs",
             "repo": "controller-runtime",
-            "stars": 2993,
+            "stars": 2994,
             "topics": [
               "k8s-sig-api-machinery"
             ]
@@ -118,7 +118,7 @@
             "open_issues": 190,
             "owner": "kudobuilder",
             "repo": "kudo",
-            "stars": 1215,
+            "stars": 1216,
             "topics": [
               "cluster",
               "cncf",
@@ -204,8 +204,8 @@
             "id": 161286438,
             "language": "Elixir",
             "license": "MIT",
-            "last_commit": "2026-09-14T08:03:39Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-16T07:42:51Z",
+            "open_issues": 23,
             "owner": "coryodaniel",
             "repo": "bonny",
             "stars": 436,
@@ -234,7 +234,7 @@
             "id": 261514821,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T05:44:49Z",
+            "last_commit": "2026-11-16T04:21:15Z",
             "open_issues": 6,
             "owner": "dotnet",
             "repo": "dotnet-operator-sdk",
@@ -439,7 +439,7 @@
             "open_issues": 233,
             "owner": "kubestellar",
             "repo": "kubestellar",
-            "stars": 729,
+            "stars": 730,
             "topics": [
               "deployment",
               "edge",
@@ -470,11 +470,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T05:40:21Z",
-            "open_issues": 43,
+            "last_commit": "2026-11-16T05:45:11Z",
+            "open_issues": 64,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 152,
+            "stars": 153,
             "topics": []
           },
           "first_seen": "2026-08-28T13:29:21.670Z"
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T08:35:07.845Z",
+    "last_updated": "2026-11-16T08:44:07.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources: articles, books and videos about Kubernetes Operators.",
