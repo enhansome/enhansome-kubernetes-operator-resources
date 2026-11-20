@@ -103,16 +103,16 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 
 ## Operator Frameworks
 
-* [Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ⭐ 9,375 | 🐛 68 | 🌐 Go | 📅 2026-11-18 - The SDK for building Kubernetes APIs using CRDs.
-* [Operator SDK](https://github.com/operator-framework/operator-sdk) ⭐ 7,691 | 🐛 88 | 🌐 Go | 📅 2026-10-21 - Advanced Go SDK for building Kubernetes Operators.
-* [Controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ⭐ 2,996 | 🐛 72 | 🌐 Go | 📅 2026-11-16 - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery).
-* [Shell-operator](https://github.com/flant/shell-operator) ⭐ 2,609 | 🐛 68 | 🌐 Go | 📅 2026-11-14 - Framework for creating K8s operators from scripts.
-* [Kudo](https://github.com/kudobuilder/kudo) ⭐ 1,215 | 🐛 190 | 🌐 Go | 📅 2023-08-22 - Kubernetes Universal Declarative Operator.
+* [Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ⭐ 9,376 | 🐛 65 | 🌐 Go | 📅 2026-11-19 - The SDK for building Kubernetes APIs using CRDs.
+* [Operator SDK](https://github.com/operator-framework/operator-sdk) ⭐ 7,693 | 🐛 88 | 🌐 Go | 📅 2026-10-21 - Advanced Go SDK for building Kubernetes Operators.
+* [Controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) ⭐ 2,997 | 🐛 72 | 🌐 Go | 📅 2026-11-19 - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery).
+* [Shell-operator](https://github.com/flant/shell-operator) ⭐ 2,611 | 🐛 68 | 🌐 Go | 📅 2026-11-14 - Framework for creating K8s operators from scripts.
+* [Kudo](https://github.com/kudobuilder/kudo) ⭐ 1,214 | 🐛 190 | 🌐 Go | 📅 2023-08-22 - Kubernetes Universal Declarative Operator.
 * [Kopf](https://github.com/zalando-incubator/kopf) ⚠️ Archived - A Python framework to write Kubernetes operators in just few lines of code.
 * [Metacontroller](https://github.com/GoogleCloudPlatform/metacontroller) ⚠️ Archived - Lightweight Kubernetes controllers as a service.
 * [Bonny](https://github.com/coryodaniel/bonny) ⭐ 436 | 🐛 23 | 🌐 Elixir | 📅 2026-11-16 - The Elixir based Kubernetes Development Framework.
-* [KubeOps](https://github.com/buehler/dotnet-operator-sdk) ⭐ 376 | 🐛 6 | 🌐 C# | 📅 2026-11-17 - KubeOps is a kubernetes operator sdk in dotnet. Strongly inspired by kubebuilder.
-* [Operatorkit](https://github.com/giantswarm/operatorkit) ⭐ 198 | 🐛 4 | 🌐 Go | 📅 2026-11-18 - An opinionated Go framework for developing Kubernetes operators.
+* [KubeOps](https://github.com/buehler/dotnet-operator-sdk) ⭐ 376 | 🐛 7 | 🌐 C# | 📅 2026-11-20 - KubeOps is a kubernetes operator sdk in dotnet. Strongly inspired by kubebuilder.
+* [Operatorkit](https://github.com/giantswarm/operatorkit) ⭐ 198 | 🐛 4 | 🌐 Go | 📅 2026-11-19 - An opinionated Go framework for developing Kubernetes operators.
 * [Roperator](https://github.com/psFried/roperator) ⚠️ Archived - Experimental Kubernetes Operator kit written in Rust.
 * [k8s-operator-node](https://github.com/dot-i/k8s-operator-node) ⭐ 180 | 🐛 7 | 🌐 TypeScript | 📅 2025-03-16 - NodeJS Kubernetes operator framework.
 * [Abstract-operator](https://github.com/jvm-operators/abstract-operator) ⭐ 62 | 🐛 8 | 🌐 Java | 📅 2021-08-02 - Library/SDK for creating the operators for Kubernetes and Openshift.
@@ -128,11 +128,11 @@ A curated list of awesome resources: articles, books, videos about Kubernetes Op
 ## Multi-Cluster & Fleet Management
 
 * [KubeStellar](https://github.com/kubestellar/kubestellar) ⭐ 731 | 🐛 226 | 🌐 Go | 📅 2026-11-14 - Multi-cluster configuration management for edge, multi-cloud, and hybrid scenarios using Kubernetes.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 155 | 🐛 91 | 🌐 TypeScript | 📅 2026-11-19 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 155 | 🐛 94 | 🌐 TypeScript | 📅 2026-11-20 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations.
 
 ## Dashboards & UIs
 
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 155 | 🐛 91 | 🌐 TypeScript | 📅 2026-11-19 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 155 | 🐛 94 | 🌐 TypeScript | 📅 2026-11-20 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 ## Contributing
 
@@ -143,4 +143,4 @@ Thanks to all [contributors](https://github.com/calvin-puram/awesome-kubernetes-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
