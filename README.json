@@ -19,7 +19,7 @@
             "open_issues": 66,
             "owner": "kubernetes-sigs",
             "repo": "kubebuilder",
-            "stars": 9376,
+            "stars": 9377,
             "topics": [
               "k8s-sig-api-machinery"
             ]
@@ -204,8 +204,8 @@
             "id": 161286438,
             "language": "Elixir",
             "license": "MIT",
-            "last_commit": "2026-11-16T07:42:51Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-23T07:42:10Z",
+            "open_issues": 24,
             "owner": "coryodaniel",
             "repo": "bonny",
             "stars": 436,
@@ -262,7 +262,7 @@
             "id": 87818870,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T21:49:58Z",
+            "last_commit": "2026-11-22T21:51:25Z",
             "open_issues": 4,
             "owner": "giantswarm",
             "repo": "operatorkit",
@@ -470,8 +470,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T05:45:59Z",
-            "open_issues": 100,
+            "last_commit": "2026-11-23T05:45:42Z",
+            "open_issues": 101,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 155,
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T08:58:39.824Z",
+    "last_updated": "2026-11-23T09:57:25.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources: articles, books and videos about Kubernetes Operators.",
